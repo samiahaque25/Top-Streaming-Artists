@@ -1,3 +1,8 @@
+//Samia Haque
+//CISC 3130 - MY9
+//Assignment A[1]
+
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
